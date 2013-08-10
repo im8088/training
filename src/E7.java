@@ -18,6 +18,7 @@ public class E7 {
         }
         o_n = l - c_n - s_n - d_n;
 
+
         System.out.println(c_n+", "+s_n+", "+d_n+", "+o_n+", "+l);
     }
 }
