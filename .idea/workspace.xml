@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2668023f-8052-4291-a336-240dfca29d85" name="Default" comment="update">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/E10.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/E12.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/E9.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/E11.java" afterPath="$PROJECT_DIR$/src/E11.java" />
+    <list default="true" id="2668023f-8052-4291-a336-240dfca29d85" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/E13.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/E14.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/E15.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/E16.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/E17.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/E18.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="training.iws" />
@@ -73,70 +75,16 @@
       <file leaf-file-name="JavaSE_50.txt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JavaSE_50.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="99" selection-start="666" selection-end="756" vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="2223">
+            <state line="33" column="9" selection-start="1122" selection-end="1130" vertical-scroll-proportion="0.0" vertical-offset="228" max-vertical-offset="2223">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="E11.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/E11.java">
+      <file leaf-file-name="E18.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/E18.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="34" selection-start="549" selection-end="549" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="513">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="E10.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/E10.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="20" selection-start="316" selection-end="316" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="589">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="E9.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/E9.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="9" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="589">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="E8.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/E8.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="34" selection-start="178" selection-end="307" vertical-scroll-proportion="0.18463612" vertical-offset="34" max-vertical-offset="798">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="E7.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/E7.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="13" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="E5.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/E5.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="13" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="E12.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/E12.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="26" selection-end="26" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="912">
+            <state line="3" column="16" selection-start="64" selection-end="64" vertical-scroll-proportion="0.07335907" vertical-offset="0" max-vertical-offset="777">
               <folding />
             </state>
           </provider>
@@ -161,11 +109,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/Vehicle.java" />
-        <option value="$PROJECT_DIR$/src/Driver.java" />
-        <option value="$PROJECT_DIR$/src/Car.java" />
-        <option value="$PROJECT_DIR$/src/Ship.java" />
-        <option value="$PROJECT_DIR$/src/Random.java" />
         <option value="$PROJECT_DIR$/src/testRandom.java" />
         <option value="$PROJECT_DIR$/src/demo/Hair.java" />
         <option value="$PROJECT_DIR$/src/test/Test.java" />
@@ -177,6 +120,11 @@
         <option value="$PROJECT_DIR$/src/E10.java" />
         <option value="$PROJECT_DIR$/src/E11.java" />
         <option value="$PROJECT_DIR$/src/E12.java" />
+        <option value="$PROJECT_DIR$/src/E17.java" />
+        <option value="$PROJECT_DIR$/src/E13.java" />
+        <option value="$PROJECT_DIR$/src/E14.java" />
+        <option value="$PROJECT_DIR$/src/E15.java" />
+        <option value="$PROJECT_DIR$/src/E16.java" />
       </list>
     </option>
   </component>
@@ -352,10 +300,10 @@
     <property name="dynamic.classpath" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.E11">
-    <configuration default="false" name="E8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.E16">
+    <configuration default="false" name="E17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="E8" />
+      <option name="MAIN_CLASS_NAME" value="E17" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -370,9 +318,9 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="E12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="E13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="E12" />
+      <option name="MAIN_CLASS_NAME" value="E13" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -387,9 +335,9 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="E9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="E14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="E9" />
+      <option name="MAIN_CLASS_NAME" value="E14" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -404,9 +352,9 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="E10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="E15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="E10" />
+      <option name="MAIN_CLASS_NAME" value="E15" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -421,9 +369,9 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="E11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="E16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="E11" />
+      <option name="MAIN_CLASS_NAME" value="E16" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -530,19 +478,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.E8" />
-      <item index="1" class="java.lang.String" itemvalue="Application.E12" />
-      <item index="2" class="java.lang.String" itemvalue="Application.E9" />
-      <item index="3" class="java.lang.String" itemvalue="Application.E10" />
-      <item index="4" class="java.lang.String" itemvalue="Application.E11" />
+      <item index="0" class="java.lang.String" itemvalue="Application.E17" />
+      <item index="1" class="java.lang.String" itemvalue="Application.E13" />
+      <item index="2" class="java.lang.String" itemvalue="Application.E14" />
+      <item index="3" class="java.lang.String" itemvalue="Application.E15" />
+      <item index="4" class="java.lang.String" itemvalue="Application.E16" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.E11" />
-        <item index="1" class="java.lang.String" itemvalue="Application.E10" />
-        <item index="2" class="java.lang.String" itemvalue="Application.E9" />
-        <item index="3" class="java.lang.String" itemvalue="Application.E12" />
-        <item index="4" class="java.lang.String" itemvalue="Application.E8" />
+        <item index="0" class="java.lang.String" itemvalue="Application.E16" />
+        <item index="1" class="java.lang.String" itemvalue="Application.E15" />
+        <item index="2" class="java.lang.String" itemvalue="Application.E14" />
+        <item index="3" class="java.lang.String" itemvalue="Application.E13" />
+        <item index="4" class="java.lang.String" itemvalue="Application.E17" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -551,6 +499,11 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
   <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
     <option name="USER" value="" />
     <option name="PASSWORD" value="" />
@@ -622,12 +575,16 @@
       <created>1376707491145</created>
       <updated>1376707491145</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="update">
+      <created>1376716406664</created>
+      <updated>1376716406664</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -648,7 +605,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20545977" sideWeight="0.63421416" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20545977" sideWeight="0.63421416" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29166666" sideWeight="0.63557214" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="92" y="92" width="1256" height="676" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -761,48 +718,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/demo/Hair.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="37" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="16" selection-start="134" selection-end="134" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Driver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="12" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="627">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Vehicle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="8" selection-start="307" selection-end="307" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="608">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ship.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="13" selection-start="61" selection-end="61" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="342">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="13" selection-start="13" selection-end="13" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="755">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/testRandom.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="25" selection-start="99" selection-end="99" vertical-scroll-proportion="0.12226512" vertical-offset="0" max-vertical-offset="777">
@@ -813,41 +728,6 @@
     <entry file="file://$PROJECT_DIR$/src/demo/Human.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="25" selection-start="227" selection-end="227" vertical-scroll-proportion="0.36679536" vertical-offset="0" max-vertical-offset="777">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaSE_50.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="99" selection-start="666" selection-end="756" vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="2223">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/E12.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="26" selection-end="26" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="912">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/E11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="34" selection-start="549" selection-end="549" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="513">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/E10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="20" selection-start="316" selection-end="316" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="589">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/E9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="9" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="589">
           <folding />
         </state>
       </provider>
@@ -866,9 +746,88 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/E12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="26" selection-end="26" vertical-scroll-proportion="0.024453025" vertical-offset="0" max-vertical-offset="912">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/E8.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="34" selection-start="178" selection-end="307" vertical-scroll-proportion="0.18463612" vertical-offset="34" max-vertical-offset="798">
+        <state line="24" column="20" selection-start="651" selection-end="651" vertical-scroll-proportion="0.552356" vertical-offset="34" max-vertical-offset="798">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/E9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="9" selection-start="257" selection-end="257" vertical-scroll-proportion="0.22007722" vertical-offset="0" max-vertical-offset="777">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/E10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="20" selection-start="316" selection-end="316" vertical-scroll-proportion="0.2984293" vertical-offset="0" max-vertical-offset="764">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/E11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="34" selection-start="549" selection-end="549" vertical-scroll-proportion="0.44015443" vertical-offset="0" max-vertical-offset="777">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/E17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="30" selection-start="468" selection-end="468" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/E13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="53" selection-start="232" selection-end="232" vertical-scroll-proportion="0.1956242" vertical-offset="0" max-vertical-offset="777">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/E14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="18" selection-start="157" selection-end="157" vertical-scroll-proportion="0.14921466" vertical-offset="0" max-vertical-offset="764">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/E15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="9" selection-start="238" selection-end="238" vertical-scroll-proportion="0.26898327" vertical-offset="0" max-vertical-offset="777">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaSE_50.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="9" selection-start="1122" selection-end="1130" vertical-scroll-proportion="0.0" vertical-offset="228" max-vertical-offset="2223">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/E16.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="276" selection-end="276" vertical-scroll-proportion="0.26898327" vertical-offset="0" max-vertical-offset="777">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/E18.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="16" selection-start="64" selection-end="64" vertical-scroll-proportion="0.07335907" vertical-offset="0" max-vertical-offset="777">
           <folding />
         </state>
       </provider>
