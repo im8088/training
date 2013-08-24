@@ -12,5 +12,6 @@ public class TestHashtable {
         hashtable.put("b", 22);
         System.out.println(hashtable.get("b"));
         System.out.println(hashtable.size());
+
     }
 }
