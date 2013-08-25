@@ -15,7 +15,8 @@ public class TestRead {
             while((i = reader.read()) != -1){
                 System.out.print((char)i);
             }
-        } catch (Exception e) {
+        }
+        catch (Exception e) {
             e.printStackTrace();
         }
     }
